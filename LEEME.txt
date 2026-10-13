@@ -1,0 +1,18 @@
+FORGE HUB — SITIO WEB
+
+Contenido
+- index.html: página única de Forge Hub.
+- css/styles.css: estilos responsivos.
+- js/main.js: año del copyright, enlaces sociales y reproducción del video.
+- assets/: logotipos, video, póster e iconos de redes.
+
+Cómo abrirlo
+1. Extrae la carpeta Forge-Hub completa.
+2. Mantén todos los archivos y carpetas en su lugar.
+3. Abre index.html en un navegador actualizado.
+
+Diseño
+La tipografía es Inter. El encabezado utiliza el video local como fondo. Los textos de las secciones inferiores se apilan debajo de sus títulos en escritorio y móvil. El pie de página conserva una fila compacta con el logotipo y descripción a la izquierda y los iconos X, Instagram y Facebook a la derecha.
+
+Pendiente
+Los enlaces de Instagram, X y Facebook están desactivados hasta reemplazar las URL vacías de socialProfiles en js/main.js.
